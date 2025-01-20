@@ -26,10 +26,7 @@ The dataset includes the following attributes:
 - **`Grade2`**: Grades assigned by the second human evaluator.
 
 ## **File Format**
-The dataset is stored in a CSV file with the following structure:
-## File Format
-
-The dataset is stored in a CSV file with the following structure:
+The dataset is stored in a CSV file with the following structure.
 
 | ID   | Qnumber | Question                | Answer             | Reference         | Grade1 | Grade2 |
 |------|---------|-------------------------|--------------------|-------------------|------------------|------------------|
